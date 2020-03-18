@@ -1,0 +1,19 @@
+step1:-Need to import the database
+       1.sudo su postgres
+       2.psql resume(datbase name)
+       3. pg_dump resume < /home/lucky/backup/resume.pgsql
+step2:-Open localhost
+        1.localhost/cv_portal
+step3:-Operate portal in following manner
+        1.First need to signup
+        2.Login the user
+        3.fill the form with complete details
+        4.click on create resume button
+        5.select templates that you want
+        6.navigate the create resume button given below to each templates.
+        7.for logout click on logout button.
+step4:-For update the store detals
+        1.Login if you LogOut 
+        2.click on update button
+        3.change the data in form 
+        4.save the data and get new cv 
