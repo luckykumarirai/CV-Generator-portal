@@ -17,4 +17,8 @@ step4:-For update the store detals
         2.click on update button
         3.change the data in form 
         4.save the data and get new cv 
+        
+        
+        
+Form has dynamic feild forskill record
 Thanks
